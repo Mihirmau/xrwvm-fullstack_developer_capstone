@@ -1,4 +1,4 @@
-# agile-final-project
+# Repository Name: xrwvm-fullstack_developer_capstone
 # Cars Dealership Full-Stack Application
 
 A responsive full-stack web application for Cars Dealership, a national car retailer in the U.S. This application allows users to view dealership branches across states, inspect dealer reviews with sentiment analysis, and post new reviews for purchased vehicles.
